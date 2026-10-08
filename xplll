@@ -1,2 +1,3 @@
 sudo -i
 sudo apt install ****
+sudo apt update
